@@ -26,7 +26,6 @@
               "default_action": {
                 "type": "web_url",
                 "url": "https://rockets.chatfuel.com/store",
-                "messenger_extensions": true
               },
               "buttons":[
                 {
