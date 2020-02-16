@@ -9,8 +9,8 @@
           "buttons": [
             {
               "type": "show_block",
-              "block_names": ["name of block"],
-              "title": "Show Block"
+              "block_names": ["Pretplata"],
+              "title": "Pretplata"
             },
             {
               "type": "web_url",
