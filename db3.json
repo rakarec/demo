@@ -1,0 +1,12 @@
+{
+  "messages": [
+    {
+      "attachment": {
+        "type": "image",
+        "payload": {
+          "url": "https://rockets.chatfuel.com/assets/welcome.png"
+        }
+      }
+    }
+  ]
+}
